@@ -1,0 +1,6 @@
+#ifndef WHILE_LOOP_SEMANTIC_CHECKS_H
+#define WHILE_LOOP_SEMANTIC_CHECKS_H
+
+
+
+#endif

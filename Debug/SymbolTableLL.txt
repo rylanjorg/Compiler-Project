@@ -1,0 +1,134 @@
+
+--- Symbol Table Start ---
+Symbol Table Node:
+Scope: main
+Index: 4
+Entry Counter: 4
+Initialized: false
+Table Type: FunctionTable
+Num Conditional Blocks: 0
+
+Next Node:
+Symbol Table Node:
+Scope: addAndPrint
+Index: 3
+Entry Counter: 3
+Initialized: false
+Table Type: FunctionTable
+Num Conditional Blocks: 0
+
+Next Node:
+Symbol Table Node:
+Scope: triple
+Index: 2
+Entry Counter: 2
+Initialized: false
+Table Type: FunctionTable
+Num Conditional Blocks: 0
+
+Next Node:
+Symbol Table Node:
+Scope: getSum
+Index: 1
+Entry Counter: 3
+Initialized: false
+Table Type: FunctionTable
+Num Conditional Blocks: 0
+
+Next Node:
+Symbol Table Node:
+Scope: Global
+Index: 0
+Entry Counter: 4
+Initialized: false
+Table Type: GlobalTable
+Num Conditional Blocks: 0
+
+Symbol Table Node:
+Scope: addAndPrint
+Index: 3
+Entry Counter: 3
+Initialized: false
+Table Type: FunctionTable
+Num Conditional Blocks: 0
+
+Next Node:
+Symbol Table Node:
+Scope: triple
+Index: 2
+Entry Counter: 2
+Initialized: false
+Table Type: FunctionTable
+Num Conditional Blocks: 0
+
+Next Node:
+Symbol Table Node:
+Scope: getSum
+Index: 1
+Entry Counter: 3
+Initialized: false
+Table Type: FunctionTable
+Num Conditional Blocks: 0
+
+Next Node:
+Symbol Table Node:
+Scope: Global
+Index: 0
+Entry Counter: 4
+Initialized: false
+Table Type: GlobalTable
+Num Conditional Blocks: 0
+
+Symbol Table Node:
+Scope: triple
+Index: 2
+Entry Counter: 2
+Initialized: false
+Table Type: FunctionTable
+Num Conditional Blocks: 0
+
+Next Node:
+Symbol Table Node:
+Scope: getSum
+Index: 1
+Entry Counter: 3
+Initialized: false
+Table Type: FunctionTable
+Num Conditional Blocks: 0
+
+Next Node:
+Symbol Table Node:
+Scope: Global
+Index: 0
+Entry Counter: 4
+Initialized: false
+Table Type: GlobalTable
+Num Conditional Blocks: 0
+
+Symbol Table Node:
+Scope: getSum
+Index: 1
+Entry Counter: 3
+Initialized: false
+Table Type: FunctionTable
+Num Conditional Blocks: 0
+
+Next Node:
+Symbol Table Node:
+Scope: Global
+Index: 0
+Entry Counter: 4
+Initialized: false
+Table Type: GlobalTable
+Num Conditional Blocks: 0
+
+Symbol Table Node:
+Scope: Global
+Index: 0
+Entry Counter: 4
+Initialized: false
+Table Type: GlobalTable
+Num Conditional Blocks: 0
+
+
+--- Symbol Table End ---
