@@ -1,4 +1,4 @@
-# C-- Compiler by Rylan Casanova and Emmy Voita [CST-405]
+# C-- Compiler by Rylan Casanova and Emmy Voita
 ## Instructions to Run Compiler (on Linux VM):
 1. Download ZIP
 2. Extract .zip folder and move to your desired Linux directory
